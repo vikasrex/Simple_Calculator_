@@ -1,1 +1,2 @@
 # Simple_Calculator_
+This C program is a simple calculator that takes two numbers as input from the user and performs basic arithmetic operations on them. The program first prompts the user to enter two numerical values. It then provides a menu of arithmetic operations, allowing the user to choose between addition, subtraction, multiplication, and division. Based on the user's choice, the program performs the selected operation and displays the result.
